@@ -1,5 +1,7 @@
 # Getting started
 
-This repository is a sample application for users following the getting started guide at https://docs.docker.com/get-started/.
+Este projeto representa meu inicio com Docker.
 
-The application is based on the application from the getting started tutorial at https://github.com/docker/getting-started
+Realizei um clone de um repositorio disponibilizado no guia pratico da documentação oficial do Docker. Daí seguir o passo a passo disponivel na documentação.
+
+Após a criação da imagem, implantei ela no Cloud run.
